@@ -1,0 +1,14 @@
+{
+  "name": "QR - ENC",
+  "short_name": "QRENC",
+  "icons": [
+    {
+      "src": "https://avatars.githubusercontent.com/u/125861398",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": "/test/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
